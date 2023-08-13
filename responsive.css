@@ -1,0 +1,59 @@
+@media screen and (max-width:930px) {
+    .container{
+        margin-top: 0rem;
+        border-radius: 0rem;
+    }
+
+    .container .header{
+        margin-top:4rem;
+    }
+
+    .container{
+        width: 100vw;
+        height: 100vh;
+    }
+    .input-section{
+        margin-top: 4rem;
+    }
+
+    .input-section .input-value input{
+        width: 70vw;
+    }
+    .input-section .input-logo{
+        width: 10vw;
+    }
+
+    .show-node{
+        width:60vw ;
+     }
+
+     .element{
+        width: 5vw;
+        
+     }
+
+     .element1{
+        width: 5vw;
+     }
+    
+
+    
+}
+
+
+@media screen and (max-width:500px){
+    .show-node{
+        width:60vw ;
+     }
+
+     .element{
+        width: 10vw;
+     }
+
+     .element1{
+        width: 10vw;
+     }
+
+}
+
+
